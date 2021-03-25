@@ -1,1 +1,4 @@
-print("supp__brah")
+def main(msg):
+    print(msg)
+
+main("tranza")
